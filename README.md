@@ -38,4 +38,8 @@ Deployed using Streamlit and Heroku.
 
 🚀 Deployment
 
-The Email Spam Classifier is deployed on Heroku. You can check it out here: Live Demo (Update the link after deployment)
+The Email Spam Classifier will be  deployed on Heroku. 
+![Deployment Screenshot](Screenshot%20(18).png)
+
+
+
