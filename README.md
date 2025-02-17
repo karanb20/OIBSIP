@@ -8,7 +8,7 @@ This repository includes three machine learning projects:
 
 2-Car Price Prediction - Estimating the price of a car based on various parameters.
 
-3-Email Spam Classifier - Identifying spam emails
+3-Email Spam Classifier - Identifying spam emails.
 
 📝 Project Descriptions
 
